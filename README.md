@@ -1,4 +1,4 @@
-Simple Calculator in C
+**Simple Calculator in C**
 A basic command-line calculator written in C that supports addition, subtraction, multiplication, and division. The calculator runs in a loop until the user chooses to exit.
 
 Features
@@ -17,7 +17,7 @@ Infinite loop until the user exits
 How It Works
 The program runs a continuous loop prompting the user to choose an operation from a menu. Once the user inputs their choice and two numbers, the calculator performs the operation and displays the result. It exits only when the user selects option 5.
 
-=== Simple Calculator ===
+**Simple Calculator**
 1. Addition (+)
 2. Subtraction (-)
 3. Multiplication (*)
